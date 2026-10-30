@@ -1,0 +1,9 @@
+numpy>=1.23,<2
+pandas>=1.5,<3
+scipy>=1.9
+matplotlib>=3.5
+scikit-learn>=1.2
+threadpoolctl>=3.5
+ipython>=8
+jupyter>=1
+nbconvert>=7

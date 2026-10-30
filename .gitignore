@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.build_hw7.py
+Homework 7 Data.zip
+Homework7.pdf
+Last_First_HW7.ipynb
+HW7_print_check.html
+HW7_print_check.pdf
